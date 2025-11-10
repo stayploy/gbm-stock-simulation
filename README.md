@@ -16,7 +16,7 @@ This project simulates how stock prices change over time using a mathematical mo
 | Variable  | Meaning  | Default Value |
 |-----------|----------|----------------|
 | N  | Number of time steps | 500 |
-| S0 | Initial stock price | 100 |
+| S_0 | Initial stock price | 100 |
 | mu | Expected growth rate (drift) | 0.00005 |
 | sigma | Volatility | 0.01 |
 | dt | Time step size | 1 |
